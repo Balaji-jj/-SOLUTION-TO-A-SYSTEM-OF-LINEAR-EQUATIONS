@@ -23,7 +23,7 @@ num1=np.array([[1,-3],[3,1]])
 num2=np.array([0,10])
 result=np.linalg.solve(num1,num2)
 print(result) 
-```
+``
 ## Output:
 ![image](https://github.com/Balaji-jj/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/142155013/15f4e3fe-4b27-44c5-9834-08f5a3fd67e4)
 
